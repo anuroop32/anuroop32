@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @anuroop32
-- 👀 I’m interested in devops
-- 🌱 I’m currently learning devops
-- 💞️ I’m looking to collaborate on devops
+- 👀 I’m currently working as an Devops Engineer
 - 📫 How to reach me using socials
 
 <!---
